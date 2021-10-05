@@ -40,7 +40,7 @@ class ErrorBoundary extends React.Component
       return (
         <div className="error-container">
           <h2 style={{ padding: "2em" }}>
-            Something has gone wrong. Please reload your screen.
+            Something has gone wrong!!!. Please reload your screen.
           </h2>
         </div>
       );
